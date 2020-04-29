@@ -29,18 +29,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: ncovallero
 github_username:  NicolaCovallero
 
-lsi: false
-safe: true
-incremental: false
-highlighter: rouge
-gist:
-  noscript: false
-kramdown:
-  math_engine: mathjax
-  syntax_highlighter: rouge
-
 # Build settings
-theme: minima
+theme: minimal
 plugins:
   - jekyll-feed
 
