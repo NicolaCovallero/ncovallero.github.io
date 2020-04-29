@@ -30,7 +30,7 @@ linkedin_username: ncovallero
 github_username:  NicolaCovallero
 
 # Build settings
-theme: minimal
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
